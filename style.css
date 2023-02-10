@@ -73,3 +73,10 @@ img{
     border:5px solid pink;
     border-radius: 20px;
 }
+div.green{
+background:green
+width:300px;
+}
+a:hover{
+    color:red
+}
